@@ -16,7 +16,7 @@ concepts used-
 
 2)Shared preferences
 
-3) Explicit intents
+3)Explicit intents
 
 4)Hardware calling permission
 
