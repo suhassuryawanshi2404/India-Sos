@@ -10,6 +10,18 @@ In times of emergency, every second counts. That's why I’m excited to share th
 
 🔹 Quick and Reliable: Speed and reliability are at the core of this app, ensuring you have access to the help you need, when you need it the most.
 
+concepts used-
+
+1)Grid layout
+
+2)Shared preferences
+
+3) Explicit intents
+
+4)Hardware calling permission
+
+5)One time login 
+
 This project is close to my heart as it aims to enhance personal safety and provide peace of mind in critical moments. Feel free to check it out, and I’d love to hear your feedback!
 
 #IndiaSOS #EmergencyApp #AndroidDevelopment #PersonalSafety #AppLaunch #TechForGood #KotlinAndroid #EngineeringLife
