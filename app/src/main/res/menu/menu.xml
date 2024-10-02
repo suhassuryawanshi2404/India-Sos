@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="About us"
+        android:id="@+id/aboutk"
+        android:icon="@drawable/about"
+        android:iconTint="#fff"/>
+    <item android:title="visit Goverment website"
+        android:id="@+id/website"
+        android:icon="@drawable/website"
+        android:iconTint="#fff"/>
+
+</menu>

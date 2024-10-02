@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/toolbarbg"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="INDIA  SOS"
+        android:textColor="#F4F8FA"
+        android:textSize="@dimen/_45sdp"
+        android:fontFamily="@font/anek"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ONE TIME LOGIN"
+        android:textColor="#F4F8FA"
+        android:textSize="@dimen/_20sdp"
+        android:fontFamily="@font/anek" />
+    <EditText
+        android:layout_width="@dimen/_230sdp"
+        android:layout_height="@dimen/_35sdp"
+        android:hint="Full name of user"
+        android:id="@+id/edit1"
+        android:inputType="text"
+        android:layout_marginTop="@dimen/_45sdp"
+        android:textColor="#fff"
+        android:background="@drawable/editbg"
+        android:paddingLeft="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="@dimen/_10sdp"/>
+    <EditText
+        android:layout_width="@dimen/_230sdp"
+        android:layout_height="@dimen/_40sdp"
+        android:hint="Address"
+        android:id="@+id/edit2"
+        android:inputType="text"
+        android:textColor="#fff"
+        android:background="@drawable/editbg"
+        android:paddingLeft="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="10sp"
+        />
+    <EditText
+        android:layout_width="@dimen/_230sdp"
+        android:layout_height="@dimen/_40sdp"
+        android:hint="Emergency contact person Name"
+        android:id="@+id/edit3"
+        android:inputType="text"
+        android:textColor="#fff"
+        android:background="@drawable/editbg"
+        android:paddingLeft="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="10sp"/>
+    <EditText
+        android:layout_width="@dimen/_235sdp"
+        android:layout_height="@dimen/_40sdp"
+        android:hint="Emergency Person Mobile Number"
+        android:id="@+id/edit4"
+        android:inputType="phone"
+        android:textColor="#fff"
+        android:background="@drawable/editbg"
+        android:paddingLeft="20sp"
+        android:paddingRight="2sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="10sp"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:id="@+id/btn"/>
+
+
+
+
+
+
+
+
+</LinearLayout>

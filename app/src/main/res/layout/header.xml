@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#CDDC39"
+    android:orientation="vertical">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="150sp"
+        android:src="@drawable/logo3"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="Suhas Suryawanshi"
+        android:textColor="#100E0E"
+        android:textStyle="bold"
+        android:id="@+id/name"
+        android:layout_marginLeft="15sp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Parijat colony,Hanuman Nagar,Nandgaon"
+        android:id="@+id/address"
+        android:textColor="#100E0E"
+        android:layout_marginLeft="15sp"
+        android:layout_marginBottom="20sp"/>
+
+
+</LinearLayout>
